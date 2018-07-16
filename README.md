@@ -8,7 +8,7 @@ This is the iOS equivalent of [Alfred-GetUlyssesSheetURL](https://github.com/der
 ## Installation
 1. Install [Update Ulysses URL Index](https://workflow.is/workflows/59cbeb1056ee490da6f356098168759d) in Workflow
 2. Install [ProcessAllGroups for index](https://workflow.is/workflows/4ea1a8ee9cfa47c4b8d51ab07bdb95da) in Workflow.  You should never run this directly -- it's called by **Update Ulysses URL Index**
-3. Install [Get Ulysses URL](https://actions.getdrafts.com/a/1Mj) in Drafts (this runs the script in [Drafts-GetUlyssesSheetURL](https://github.com/derickfay/Drafts-GetUlyssesSheetURL/getUlyssesSheetURLDraftsScript.js) - the file is posted here for reference only)
+3. Install [Get Ulysses URL](https://actions.getdrafts.com/a/1Mj) in Drafts (this includes the script in [Drafts-GetUlyssesSheetURL](https://github.com/derickfay/Drafts-GetUlyssesSheetURL/getUlyssesSheetURLDraftsScript.js) - the file is posted here for reference only & will be installed automatically as part of the Drafts action).
 
 ## Usage
 
