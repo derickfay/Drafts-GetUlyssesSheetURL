@@ -16,8 +16,13 @@ This is the iOS equivalent of [Alfred-GetUlyssesSheetURL](https://github.com/der
 2. Run the **Get Ulysses URL** Drafts action
 3. At the prompt, enter your search terms
 
-![Prompt](
+![Prompt](IMG_9258.png)
 
+4. Select results to be copied to the clipboard
+
+![Prompt](IMG_9259.png)
+
+## Acknowledgements
 
 Like Alfred-GetUlyssesSheetURL, it owes a lot to [UlyssesReportAndMarkdown](https://github.com/rovest/UlyssesReportAndMarkdown).
 
